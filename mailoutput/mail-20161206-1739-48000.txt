@@ -1,0 +1,25 @@
+To: francois.lewe@gmail.com
+Subject: Nouveau site WordPress
+Date: Tue, 6 Dec 2016 17:39:48 +0000
+From: WordPress <wordpress@localhost>
+Message-ID: <7796f0af0dbe8abc828fb0763c33bdac@localhost>
+X-Mailer: PHPMailer 5.2.14 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+Votre nouveau site WordPress a bien été installé à l’adresse :
+
+http://localhost/examen_cms
+
+Vous pouvez vous y connecter en tant qu’administrateur avec les informations suivantes :
+
+Identifiant : francois
+Mot de passe : Le mot de passe que vous avez choisi pendant l’installation.
+Connectez-vous ici : http://localhost/examen_cms/wp-login.php
+
+Nous espérons que vous aimerez votre nouveau site ! Merci à vous !
+
+--L’équipe WordPress
+https://wordpress.org/
+

@@ -1,0 +1,23 @@
+To: francois.lewe@gmail.com
+Subject: =?UTF-8?Q?[examen=5Fcms]_Notification_d=E2=80=99un_changement_de_mot_de_p?=  =?UTF-8?Q?asse?=
+Date: Tue, 6 Dec 2016 17:57:00 +0000
+From: WordPress <wordpress@localhost>
+Message-ID: <e3280369a679a9fb8bd491dfa8399664@ewel>
+X-Mailer: PHPMailer 5.2.14 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+Salutations francois,
+
+Ce message vous confirme que votre mot de passe a bien été modifié sur examen_cms.
+
+Si vous n’avez pas modifié votre mot de passe, veuillez contacter l’administrateur du site à cette adresse :
+francois.lewe@gmail.com
+
+Ce message a été envoyé à francois.lewe@gmail.com
+
+Cordialement,
+Toute l’équipe de examen_cms
+http://localhost/examen_cms
+
